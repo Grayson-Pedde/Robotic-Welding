@@ -30,12 +30,12 @@ This step is critical for enabling reliable robotic welding-based additive manuf
 ---
 
 ## Workcell Simulation
-![RoboDK Simulation](RoboDk.jpeg)
+![RoboDK Simulation](IMG_0368.jpeg)
 
 ---
 
 ## Robotic Platform
-![Yaskawa Robotic Arm](robotic_arm.jpeg)
+![Yaskawa Robotic Arm](IMG_0347.jpeg)
 
 ---
 
