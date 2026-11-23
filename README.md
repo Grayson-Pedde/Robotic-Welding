@@ -60,7 +60,7 @@ My contributions focused specifically on troubleshooting and improving the RoboD
 This project was completed by a separate senior design team, which I assisted as a volunteer technical contributor.
 
 ## 3d Printed objects 
-![Yaskawa Robotic Arm](IMG_0347.jpeg)
+![Weld](Weld#1.jpeg)
 
 ---
 
