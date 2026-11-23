@@ -48,6 +48,8 @@ Two post-processor configurations were developed: one for printing walls with we
 ## Robotic Platform
 ![Yaskawa Robotic Arm](IMG_0347.jpeg)
 
+## Robotic Platform
+![RoboDK](ROBODK.jpeg)
 ---
 
 ## Final Outcome
@@ -60,8 +62,9 @@ My contributions focused specifically on troubleshooting and improving the RoboD
 This project was completed by a separate senior design team, which I assisted as a volunteer technical contributor.
 
 ## 3d Printed objects 
-![Weld](Weld#1.jpeg)
-
+![Weld](Weld%231.jpeg)
+![Weld](Weld%232.jpeg)
+![Weld](Weld%233.jpeg)
 ---
 
 ## Skills & Concepts Applied
